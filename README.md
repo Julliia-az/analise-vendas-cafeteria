@@ -25,3 +25,7 @@ Utilizei o Excel para analisar os dados de vendas de uma cafeteria, explorar ind
 Esse exercício me ajudou a desenvolver meu raciocínio analítico e entender melhor como transformar dados em informações úteis para a tomada de decisões.
 
 Estou no início da minha jornada em Ciência de Dados e quero continuar aprendendo e desenvolvendo novos projetos! 🚀
+
+## Observação sobre os dados
+
+Este projeto foi desenvolvido para fins de estudo, utilizando uma base de dados fictícia gerada com auxílio do ChatGPT. O objetivo foi praticar funções do Excel, analisar indicadores de vendas e extrair insights a partir dos resultados.
